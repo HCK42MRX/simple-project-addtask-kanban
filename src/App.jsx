@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import HomePage from "./Pages/HomePage";
 import { ThemeProvider } from "./context/ThemeContext";
 import AboutPage from "./pages/AboutPage";
+import HomePage from "./pages/HomePage";
 
 const App = () => {
   return (
