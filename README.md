@@ -22,7 +22,7 @@ git clone [https://github.com/HCK42MRX/simple-project-addtask-kanban.git](https:
 
 2. Open the project Once cloned, you will see a folder named simple-project-addtask-kanban. Open this folder in your code editor (VS Code is recommended).
 
-Need help opening a folder in VS Code? Watch this tutorial.
+Need help opening a folder in VS Code? Watch this tutorial [https://www.youtube.com/watch?v=u3PMR8voOo0].
 
 3. Install dependencies Open the integrated terminal in VS Code using the shortcut: Ctrl + ` (backtick)
 
